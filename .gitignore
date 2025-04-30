@@ -46,7 +46,7 @@ ENV/
 .vscode/
 
 # Colab artifacts
-*.ipynb
+
 drive/
 sample_data/
 
